@@ -1,0 +1,24 @@
+name: PEP8-nb
+
+on: [push]
+
+jobs:
+  flake8:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+
+    - name: Install dependencies
+      run: |
+        pip install --upgrade pip
+        pip install flake8-nb==0.4.0
+    - name: Lint with flake8
+      run: |
+        flake8-nb Preprocessing_and_export_global.ipynb
+        flake8-nb results.ipynb
