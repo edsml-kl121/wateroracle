@@ -54,6 +54,9 @@ There are in total of 11 main notebooks serving different functions and in order
 - Additionally the CloudcoverExp.Rmd is used to perform statistical analysis on cloud cover and our models.
 - Test the custom tool package use notebook 11. 
 
+The figure below describes the workflow
+![Workflow (2)](https://user-images.githubusercontent.com/90031508/187089703-30566435-4a7f-461f-9c91-0bb9673c95de.jpg)
+
 
 ## Getting started guide
 
