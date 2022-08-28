@@ -9,7 +9,7 @@
 A Repository for independent research project. A multi-view deep learning approach with a U-Net core is developed and used to fuse information from different satellites (Landsat-8, L8SR; Sentinel-1, S1) and a digital elevation model (NASDEM)
 to identify surface water bodies globally. 
 
-Read more about the project at: https://github.com/ese-msc-2021/irp-kl121/blob/main/reports/kl121-final-report.pdf
+Read more about the project at: https://github.com/edsml-kl121/wateroracle/blob/main/reports/kl121-final-report.pdf
 
 ## Important Note
 
