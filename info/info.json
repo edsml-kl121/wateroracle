@@ -1,15 +1,15 @@
 {
     "username": "kl121",
     "code": "YP87",
-    "title": "Cloud-based deep Learning to classify water bodies by combining the Landsat-8 and Sentinel-1 bands with different strategies",
+    "title": "Combining Landsat-8, Sentinel-1 and NASADEM using Multi-view Learning to Classify Water Bodies Globally",
     "s1": {
         "name": "Yves Plancherel",
         "email": "y.plancherel@imperial.ac.uk",
         "affiliation": "Imperial College London"
     },
     "s2": {
-        "name": "Philippa Mason",
-        "email": "p.j.mason@imperial.ac.uk",
+        "name": "Gareth Roberts",
+        "email": "gareth.roberts@imperial.ac.uk",
         "affiliation": "Imperial College London"
     },
     "additional-supervisors": ""

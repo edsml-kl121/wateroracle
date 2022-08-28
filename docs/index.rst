@@ -43,7 +43,7 @@ preprocessing.py
   :members: preprocessing
 
 .. automodule:: tools.preprocessing
-  :members: Preprocessor, maskL8sr, EnsureTwodigit, GenSeasonalDatesMonthly
+  :members: Preprocessor, maskL8sr, EnsureTwodigit, GenSeasonalDatesMonthly, getQABits, cloud_shadows, clouds, maskClouds, applyScaleFactors, changeNames
   :noindex: preprocessing
 
 sampling.py
